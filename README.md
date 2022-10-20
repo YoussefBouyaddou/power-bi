@@ -1,1 +1,1 @@
-[Report](http://htmlpreview.github.io/?https://github.com/YoussefBouyaddou/power-bi/blob/main/superstore%20report.html)
+[Report](https://app.powerbi.com/view?r=eyJrIjoiNTljYzUzOGYtYzE3Yy00Y2UwLTk0MzUtYjdjYzhiM2ZlMDQwIiwidCI6IjIzYWM4MDk1LWU2NWYtNDBjNC04ZmM1LWFlMjBhZWM1M2RkNyJ9)
